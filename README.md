@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-fareena-begum-3b1a02269/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bqtohhp0er6ynu3whyrk%2bbq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-fareena-begum-3b1a02269/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bqtohhp0er6ynu3whyrk%2bbq%3d%3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-fareena-begum-3b1a02269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-fareena-begum-3b1a02269" height="30" width="40" /></a>
 <a href="https://instagram.com/farru_1503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farru_1503" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/fareena_begum15-03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fareena_begum15-03" height="30" width="40" /></a>
 </p>
@@ -30,4 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingprogramming15&show_icons=true&locale=en&layout=compact" alt="codingprogramming15" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingprogramming15&show_icons=true&locale=en" alt="codingprogramming15" /></p>
-
