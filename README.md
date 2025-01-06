@@ -7,13 +7,17 @@
 
 - 👯 I’m looking to collaborate on **fullstack development project**
 
-- 🤝 I’m looking for help with **web apps**
+- 🤝 I’m looking for help with **java**
+
+- 👨‍💻 All of my projects are available at [https://fareenabegum.mystrikingly.com](https://fareenabegum.mystrikingly.com)
 
 - 💬 Ask me about **java,HTML,CSS,JavaScript**
 
 - 📫 How to reach me **fareenabegum992@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/w/c/2089e7dea88f5a21/EVHw6LtgaVhAhIjSqRMN_hABy4kl9fw_5jU-S0oluXXhbw?e=O0JFh7](https://1drv.ms/w/c/2089e7dea88f5a21/EVHw6LtgaVhAhIjSqRMN_hABy4kl9fw_5jU-S0oluXXhbw?e=O0JFh7)
+- 📄 Know about my experiences [https://github.com/codingprogramming15/Fareenabegum/blob/main/FAREENABEGUM%20RESUME%20.pdf](https://github.com/codingprogramming15/Fareenabegum/blob/main/FAREENABEGUM%20RESUME%20.pdf)
+
+- ⚡ Fun fact **i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
