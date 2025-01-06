@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Freenabegum</h1>
+<h1 align="center">Hi 👋, I'm Fareena begum</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingprogramming15&label=Profile%20views&color=0e75b6&style=flat" alt="codingprogramming15" /> </p>
 
 - 🌱 I’m currently learning **Linux administrator,aws**
 
-- 👯 I’m looking to collaborate on **fullstack development project**
+- 👯 I’m looking to collaborate on **full stack java development project**
 
 - 🤝 I’m looking for help with **java**
 
