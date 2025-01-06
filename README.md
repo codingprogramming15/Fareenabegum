@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **java**
 
-- 👨‍💻 All of my projects are available at [https://fareenabegum.mystrikingly.com](https://fareenabegum.mystrikingly.com)
+- 👨‍💻 All of my projects are available at [https://fareenabegum.mystrikingly.com/](https://fareenabegum.mystrikingly.com/)
 
 - 💬 Ask me about **java,HTML,CSS,JavaScript**
 
